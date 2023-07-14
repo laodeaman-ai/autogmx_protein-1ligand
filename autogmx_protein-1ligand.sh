@@ -115,7 +115,6 @@ gmx grompp -f ../md.mdp -c npt.gro -t npt.cpt -p topol.top -n index.ndx -o md.tp
 gmx mdrun -v -s md.tpr -deffnm md
 cd ..
 done
-
+wait
 echo Succesfully
 echo This script written by La Ode Aman, laode_aman@ung.ac.id, Universitas Negeri Gorontalo
-wait
