@@ -117,5 +117,5 @@ cd ..
 done
 
 echo Succesfully
-echo This script written by La Ode Aman, laode_aman@ung.ac.id, Universitas Negeri Gorontalo
+echo This script written by La Ode Aman, laode_aman@ung.ac.id, Universitas Negeri Gorontalo, Indonesia
 wait
