@@ -1,3 +1,4 @@
+# autogmx_protein-1ligand
 Skrip ini berguna untuk automatisasi simulasi MD menggunakan gromacs untuk multi kompleks protein-ligand dimana setiap kompleks terdiri dari reseptor dan 1 ligand.
 
 1. Setiap kompleks berada dalam direktori berbeda, dan setiap direktori kompoleks berada pada direktori kerja.
