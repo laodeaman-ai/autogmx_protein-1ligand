@@ -1,4 +1,4 @@
-Skrip ini berguna untuk automatisasi simulasi MD menggunakan gromacs untuk multi kompleks protein-ligand dimana setiap kompleks terdiri dari resepetor dan 1 ligand.
+Skrip ini berguna untuk automatisasi simulasi MD menggunakan gromacs untuk multi kompleks protein-ligand dimana setiap kompleks terdiri dari reseptor dan 1 ligand.
 
 1. File protein dan ligand dari setiap kompleks berada dalam direktori berbeda, dan setiap direktori kompoleks berada pada direktori kerja.
 2. Tempatkan skrip ini bersama file ions.mdp, em.mdp, nvt.mpd, npt.mdp dan md.mdp pada direktori kerja dengan pengaturan pasangan protein_ligand pada file mdp adalah "Protein_LIG".
